@@ -1,0 +1,18 @@
+#planningroom_generator .center{
+	text-align:center;
+}
+#planningroom_generator p{
+	margin-bottom:10px;
+}
+#planningroom_generator label{
+	float:left;
+	clear:left;
+	width:320px;
+	font-weight:bold;
+	text-align:right;
+	padding-right:5px;
+	line-height:2.4em;
+}
+#planningroom_generator select{
+	width:100px;
+}

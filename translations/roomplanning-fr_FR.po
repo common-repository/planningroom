@@ -1,0 +1,742 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: php/booking/popupBooking.php:25
+#@ roomplanning
+msgid "at"
+msgstr "à"
+
+#: php/admin/RoomPlanningAdminAdministration.php:11
+#@ roomplanning
+msgid "General Settings"
+msgstr "Options générales"
+
+#: php/admin/RoomPlanningAdminAdministration.php:27
+#@ roomplanning
+msgid "Title of planning"
+msgstr "Titre du planning"
+
+#: php/admin/admincore.php:15
+#: php/admin/admincore.php:23
+#: php/admin/admincore.php:30
+#: php/admin/admincore.php:38
+#@ default
+msgid "You do not have sufficient permissions to manage options for this site."
+msgstr "Vous n'avez pas les droits nécessaires pour visualiser cette page"
+
+#: php/ajax/ajaxrequest.php:46
+#@ roomplanning
+msgid "options updates"
+msgstr "Options mises à jour"
+
+#: php/ajax/ajaxrequest.php:174
+#@ roomplanning
+msgid "Room added"
+msgstr "Local ajouté"
+
+#: php/ajax/ajaxrequest.php:180
+#@ roomplanning
+msgid "Error: name of room must be fill"
+msgstr "Erreur : le nom du local est obligatoire"
+
+#: php/ajax/ajaxrequest.php:112
+#@ roomplanning
+msgid "Event added"
+msgstr "Evènement ajouté"
+
+#: php/ajax/ajaxrequest.php:117
+#@ roomplanning
+msgid "Error: This room is not free for this date time"
+msgstr "Erreur : le local n'est pas disponible pour la date donnée"
+
+#: php/ajax/ajaxrequest.php:126
+#@ roomplanning
+msgid "Error: all field must be fill"
+msgstr "Erreur : tous les champs sont obligatoires"
+
+#: php/ajax/ajaxrequest.php:150
+#@ roomplanning
+msgid "Member added"
+msgstr "Membre ajouté"
+
+#: php/ajax/ajaxrequest.php:158
+#@ roomplanning
+msgid "Error: name of member must be fill"
+msgstr "Erreur : le nom du membre est obligatoire"
+
+#: php/admin/admincore.php:172
+#: php/admin/admincore.php:222
+#: php/admin/admincore.php:294
+#@ roomplanning
+msgid "Remove"
+msgstr "Supprimer"
+
+#: php/admin/RoomPlanningAdminList.php:15
+#: php/admin/admincore.php:172
+#@ roomplanning
+msgid "Free"
+msgstr "Libérer"
+
+#: RoomPlanning.php:212
+#: php/admin/admincore.php:223
+#: php/admin/admincore.php:295
+#@ roomplanning
+msgid "Edit"
+msgstr "Editer"
+
+#: php/admin/admincore.php:190
+#: php/admin/admincore.php:249
+#: php/admin/admincore.php:329
+#: php/ajax/ajaxrequest.php:189
+#@ roomplanning
+msgid "Results not found"
+msgstr "Aucun résultat"
+
+#: php/lib/utils.php:103
+#: php/tinymce/generator.php:47
+#@ roomplanning
+msgid "Choose room"
+msgstr "local"
+
+#: php/lib/utils.php:133
+#@ roomplanning
+msgid "Choose member"
+msgstr "membre"
+
+#: php/admin/RoomPlanningAdminAdministration.php:31
+#@ roomplanning
+msgid "Hour open"
+msgstr "Horaire d'ouverture"
+
+#: php/admin/RoomPlanningAdminAdministration.php:35
+#@ roomplanning
+msgid "Hour close"
+msgstr "Horaire de fermeture"
+
+#: php/admin/RoomPlanningAdminAdministration.php:73
+#@ roomplanning
+msgid "Update Settings"
+msgstr "Modifier les options"
+
+#: php/admin/RoomPlanningAdminEdit.php:16
+#: php/admin/RoomPlanningAdminEdit.php:46
+#@ roomplanning
+msgid "Add Event"
+msgstr "Ajouter un évènement"
+
+#: php/admin/RoomPlanningAdminEdit.php:25
+#: php/admin/RoomPlanningAdminEdit.php:97
+#@ roomplanning
+msgid "Room Name"
+msgstr "Nom du local"
+
+#: php/admin/RoomPlanningAdminEdit.php:28
+#: php/admin/RoomPlanningAdminEdit.php:64
+#: php/booking/popupBooking.php:20
+#: php/booking/popupLogin.php:71
+#@ roomplanning
+msgid "Member Name"
+msgstr "Nom du membre"
+
+#: php/admin/RoomPlanningAdminEdit.php:37
+#@ roomplanning
+msgid "Date beg"
+msgstr "Date début"
+
+#: php/admin/RoomPlanningAdminEdit.php:88
+#@ roomplanning
+msgid "Add new Room"
+msgstr "Ajouter un local"
+
+#: php/admin/RoomPlanningAdminEdit.php:72
+#: php/admin/RoomPlanningAdminEdit.php:101
+#: php/admin/RoomPlanningAdminHelp.php:18
+#: php/admin/RoomPlanningAdminHelp.php:26
+#: php/admin/admincore.php:227
+#: php/admin/admincore.php:299
+#@ roomplanning
+msgid "Description"
+msgstr "Description"
+
+#: php/admin/RoomPlanningAdminEdit.php:108
+#@ roomplanning
+msgid "Add Room"
+msgstr "Ajouter un local"
+
+#: php/admin/RoomPlanningAdminEdit.php:55
+#@ roomplanning
+msgid "Add new Member"
+msgstr "Ajouter un membre"
+
+#: php/admin/RoomPlanningAdminEdit.php:79
+#@ roomplanning
+msgid "Add Member"
+msgstr "Ajouter un membre"
+
+#: php/admin/RoomPlanningAdminList.php:10
+#@ roomplanning
+msgid "List Planning"
+msgstr "Planning"
+
+#: php/admin/RoomPlanningAdminList.php:10
+#@ roomplanning
+msgid "Today"
+msgstr "Aujourd'hui"
+
+#: php/admin/RoomPlanningAdminList.php:51
+#@ roomplanning
+msgid "List Room"
+msgstr "Liste des locaux"
+
+#: php/admin/RoomPlanningAdminList.php:68
+#: php/admin/RoomPlanningAdminList.php:77
+#@ roomplanning
+msgid "Room"
+msgstr "Local"
+
+#: php/admin/RoomPlanningAdminList.php:92
+#@ roomplanning
+msgid "List Members"
+msgstr "Liste des membres"
+
+#: php/admin/RoomPlanningAdminList.php:109
+#: php/admin/RoomPlanningAdminList.php:118
+#@ roomplanning
+msgid "Member"
+msgstr "Membre"
+
+#: php/admin/RoomPlanningAdminEdit.php:31
+#@ roomplanning
+msgid "Or search member by name"
+msgstr "Ou rechercher par nom"
+
+#: RoomPlanning.php:208
+#: RoomPlanning.php:226
+#@ roomplanning
+msgid "Loading..."
+msgstr "Patentiez..."
+
+#: RoomPlanningShortcode.php:154
+#@ roomplanning
+msgid "Filter :"
+msgstr "Filtres:"
+
+#: RoomPlanningShortcode.php:156
+#: php/lib/utils.php:78
+#@ roomplanning
+msgid "Day"
+msgstr "Jour"
+
+#: RoomPlanningShortcode.php:160
+#: php/lib/utils.php:80
+#@ roomplanning
+msgid "Month"
+msgstr "Mois"
+
+#: RoomPlanningShortcode.php:164
+#: php/lib/utils.php:81
+#@ roomplanning
+msgid "Year"
+msgstr "Année"
+
+#: php/lib/utils.php:153
+#@ roomplanning
+msgid "No"
+msgstr "Non"
+
+#: php/lib/utils.php:154
+#@ roomplanning
+msgid "Yes"
+msgstr "Oui"
+
+#: php/booking/popupBooking.php:23
+#@ roomplanning
+msgid "Desired time"
+msgstr "Créneau désiré"
+
+#: php/booking/popupBooking.php:28
+#@ roomplanning
+msgid "Choose your room"
+msgstr "Choisissez votre local"
+
+#: php/booking/popupBooking.php:9
+#: php/booking/popupBooking.php:31
+#@ roomplanning
+msgid "Booking"
+msgstr "Réserver"
+
+#: php/booking/popupLogin.php:60
+#: php/booking/popupLogin.php:80
+#@ roomplanning
+msgid "Registration"
+msgstr "Inscription"
+
+#: php/admin/RoomPlanningAdminEdit.php:68
+#: php/admin/admincore.php:299
+#: php/booking/popupLogin.php:46
+#: php/booking/popupLogin.php:75
+#@ roomplanning
+msgid "Mail"
+msgstr "Email"
+
+#: php/booking/popupLogin.php:33
+#@ roomplanning
+msgid "Forget password"
+msgstr "Mot de passe oublié"
+
+#: php/booking/popupLogin.php:51
+#@ roomplanning
+msgid "Get your password"
+msgstr "Recevez votre mot de passe"
+
+#: php/booking/popupLogin.php:9
+#@ roomplanning
+msgid "Login"
+msgstr "Connexion"
+
+#: php/booking/popupLogin.php:24
+#@ roomplanning
+msgid "Password"
+msgstr "Mot de passe"
+
+#: php/booking/popupLogin.php:29
+#@ roomplanning
+msgid "Send"
+msgstr "Envoyer"
+
+#: php/ajax/ajaxrequest.php:335
+#@ roomplanning
+msgid "You must logged to booking a room"
+msgstr "Vous devez être identifié pour réserver."
+
+#: php/ajax/ajaxrequest.php:361
+#: php/ajax/ajaxrequest.php:395
+#: php/ajax/ajaxrequest.php:429
+#@ roomplanning
+msgid "You must fill all field"
+msgstr "Veuillez renseigner tous les champs"
+
+#: php/admin/RoomPlanningAdminAdministration.php:55
+#@ roomplanning
+msgid "Date limit for booking room ?"
+msgstr "Date minimum pour réserver"
+
+#: php/admin/RoomPlanningAdminAdministration.php:56
+#@ roomplanning
+msgid "days"
+msgstr "jours"
+
+#: php/admin/RoomPlanningAdminAdministration.php:59
+#@ roomplanning
+msgid "Use Wordpress registration for new member ?"
+msgstr "Utilisez WordPress pour l'enregistrement des membres ?"
+
+#: php/ajax/ajaxrequest.php:345
+#@ roomplanning
+msgid "Booking confirmed"
+msgstr "Réservation confirmée"
+
+#: php/ajax/ajaxrequest.php:349
+#@ roomplanning
+msgid "Room is not available for this time"
+msgstr "Le local n'est pas disponible aux heures spécifées"
+
+#: php/admin/RoomPlanningAdminHelp.php:10
+#@ roomplanning
+msgid "F.A.Q"
+msgstr "F.A.Q"
+
+#: php/admin/RoomPlanningAdminHelp.php:17
+#: php/admin/RoomPlanningAdminHelp.php:25
+#@ roomplanning
+msgid "Parameters"
+msgstr "Paramètres"
+
+#: php/admin/RoomPlanningAdminHelp.php:19
+#: php/admin/RoomPlanningAdminHelp.php:27
+#@ roomplanning
+msgid "Example"
+msgstr "Exemple"
+
+#: php/admin/RoomPlanningAdminHelp.php:34
+#@ roomplanning
+msgid "Display planning room with no options"
+msgstr "Afficher le planning sans options"
+
+#: php/admin/RoomPlanningAdminHelp.php:40
+#@ roomplanning
+msgid "Display planning room for one day"
+msgstr "Afficher le planning pour un jour donné"
+
+#: php/admin/RoomPlanningAdminHelp.php:46
+#@ roomplanning
+msgid "Display planning room for one room"
+msgstr "Afficher le planning pour un local donné"
+
+#: php/admin/RoomPlanningAdminHelp.php:46
+#@ roomplanning
+msgid "Check list room to find room's ID"
+msgstr "Vérifier la liste des ID dans la partie liste des locaux"
+
+#: php/admin/RoomPlanningAdminHelp.php:52
+#: php/admin/RoomPlanningAdminHelp.php:58
+#: php/admin/RoomPlanningAdminHelp.php:64
+#@ roomplanning
+msgid "or"
+msgstr "ou"
+
+#: php/admin/RoomPlanningAdminHelp.php:52
+#: php/admin/RoomPlanningAdminHelp.php:58
+#: php/admin/RoomPlanningAdminHelp.php:64
+#@ roomplanning
+msgid "default"
+msgstr "defaut"
+
+#: php/admin/RoomPlanningAdminHelp.php:58
+#@ roomplanning
+msgid "Display planning room with navigation day"
+msgstr "Afficher le planning avec la navigation calendaire"
+
+#: php/admin/RoomPlanningAdminHelp.php:64
+#@ roomplanning
+msgid "Display planning room with filter"
+msgstr "Afficher le planning avec les critères de recherche"
+
+#: php/admin/RoomPlanningAdminAdministration.php:72
+#: php/admin/RoomPlanningAdminEdit.php:45
+#: php/admin/RoomPlanningAdminEdit.php:78
+#: php/admin/RoomPlanningAdminEdit.php:107
+#: php/booking/popupLogin.php:95
+#@ roomplanning
+msgid "Loading"
+msgstr "Patentiez"
+
+#: RoomPlanning.php:209
+#: php/admin/admincore.php:237
+#@ roomplanning
+msgid "Update room"
+msgstr "Modifier le local"
+
+#: RoomPlanning.php:210
+#: php/admin/admincore.php:317
+#@ roomplanning
+msgid "Update member"
+msgstr "Modifier le membre"
+
+#: RoomPlanning.php:211
+#: php/admin/admincore.php:236
+#: php/admin/admincore.php:316
+#@ roomplanning
+msgid "Cancel"
+msgstr "Annuler"
+
+#: php/admin/RoomPlanningAdminAdministration.php:51
+#@ roomplanning
+msgid "Use booking room functionality ?"
+msgstr "Utilisez le système de réservation ?"
+
+#: php/admin/admincore.php:104
+#: php/ajax/ajaxrequest.php:450
+#@ roomplanning
+msgid "Registration at"
+msgstr "Inscription à"
+
+#: php/ajax/ajaxrequest.php:450
+#@ roomplanning
+msgid "Your password:"
+msgstr "Votre mot de passe"
+
+#: php/ajax/ajaxrequest.php:366
+#@ roomplanning
+msgid "This user already exist"
+msgstr "Cet utilisateur existe déjà"
+
+#: php/ajax/ajaxrequest.php:371
+#: php/ajax/ajaxrequest.php:434
+#@ roomplanning
+msgid "Mail not valid"
+msgstr "L'email n'est pas valide"
+
+#: php/ajax/ajaxrequest.php:451
+#@ roomplanning
+msgid "Password was sent at"
+msgstr "Un nouveau mot de passe à été envoyé à"
+
+#: php/ajax/ajaxrequest.php:401
+#@ roomplanning
+msgid "Name not valid"
+msgstr "Nom incorrect"
+
+#: php/booking/popupLogin.php:20
+#: php/booking/popupLogin.php:42
+#@ roomplanning
+msgid "Name"
+msgstr "Nom"
+
+#: RoomPlanning.php:253
+#@ roomplanning
+msgid "RoomPlanning"
+msgstr "PlanningRoom"
+
+#: RoomPlanning.php:255
+#@ roomplanning
+msgid "Configuration tools"
+msgstr "Options générales"
+
+#: RoomPlanning.php:255
+#@ roomplanning
+msgid "Configuration"
+msgstr "Réglages"
+
+#: RoomPlanning.php:257
+#@ roomplanning
+msgid "Add Events"
+msgstr "Ajouter un évènement"
+
+#: RoomPlanning.php:257
+#@ roomplanning
+msgid "Add"
+msgstr "Ajouter"
+
+#: RoomPlanning.php:259
+#@ roomplanning
+msgid "Listing Events"
+msgstr "Lister les réservations"
+
+#: RoomPlanning.php:259
+#@ roomplanning
+msgid "List"
+msgstr "Lister"
+
+#: RoomPlanning.php:261
+#@ roomplanning
+msgid "How to"
+msgstr "F.A.Q"
+
+#: RoomPlanningShortcode.php:269
+#: php/admin/RoomPlanningAdminEdit.php:41
+#@ roomplanning
+msgid "to"
+msgstr "à"
+
+#: php/ajax/ajaxrequest.php:144
+#@ roomplanning
+msgid "User already exists"
+msgstr "Membre déjà existant"
+
+#: php/lib/pagination.php:37
+#@ roomplanning
+msgid "Page"
+msgstr "Page"
+
+#: php/admin/RoomPlanningAdminAdministration.php:43
+#@ roomplanning
+msgid "Display member name ?"
+msgstr "Afficher les noms des membres dans le planning ?"
+
+#: php/ajax/ajaxrequest.php:120
+#@ roomplanning
+msgid "Error: Time not available"
+msgstr "Erreur: Date non valide"
+
+#: php/admin/RoomPlanningAdminAdministration.php:63
+#@ roomplanning
+msgid "Choose background image"
+msgstr "Choisissez l'image de fond du planning"
+
+#: php/admin/RoomPlanningAdminEdit.php:40
+#@ roomplanning
+msgid "Times"
+msgstr "Heures"
+
+#: php/admin/RoomPlanningAdminEdit.php:47
+#: php/admin/RoomPlanningAdminEdit.php:80
+#: php/admin/RoomPlanningAdminEdit.php:109
+#@ roomplanning
+msgid "Reset"
+msgstr "Reinitialiser"
+
+#: RoomPlanning.php:31
+#@ default
+msgid "PlanningRoom plugin must run under PHP version >= 5.0.0"
+msgstr "PlanningRoom fonctionne avec la version de PHP >= 5.0.0"
+
+#: RoomPlanning.php:147
+#@ roomplanning
+msgid "Settings"
+msgstr "Réglages"
+
+#: RoomPlanning.php:148
+#@ roomplanning
+msgid "Donate"
+msgstr "Faire un don"
+
+#: RoomPlanningShortcode.php:114
+#@ roomplanning
+msgid "Book room for"
+msgstr "Réserver un local pour le"
+
+#: php/admin/admincore.php:99
+#: php/ajax/ajaxrequest.php:383
+#@ roomplanning
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#: php/tinymce/generator.php:12
+#@ roomplanning
+msgid "You don't have access to this function."
+msgstr "Vous n'avez pas les droits pour cette fonction."
+
+#: php/tinymce/generator.php:18
+#: php/tinymce/generator.php:44
+#@ roomplanning
+msgid "PlanningRoom Shortcode Generator"
+msgstr "PlanningRoom Shortcode générateur"
+
+#: php/tinymce/generator.php:46
+#@ roomplanning
+msgid "Shortcode Attributes"
+msgstr "Shortcode attributs"
+
+#: php/tinymce/generator.php:48
+#@ roomplanning
+msgid "Choose view"
+msgstr "Choisissez l'affichage"
+
+#: php/tinymce/generator.php:49
+#@ roomplanning
+msgid "Display navigation"
+msgstr "Afficher la navigation"
+
+#: php/tinymce/generator.php:50
+#@ roomplanning
+msgid "Display filters"
+msgstr "Afficher les filtres"
+
+#: php/tinymce/generator.php:51
+#@ roomplanning
+msgid "Generate Shortcode"
+msgstr "Générer le Shortcode"
+
+#: php/tinymce/generator.php:60
+#@ roomplanning
+msgid "PlanningRoom: this generator isn't going to put the shortcode in your page. Sorry!"
+msgstr "PlanningRoom: Le générateur n'a pas pu écrire dans votre page. Désolé !"
+
+#: php/admin/RoomPlanningAdminHelp.php:11
+#@ roomplanning
+msgid "For your convenience, please click on the"
+msgstr "Pour plus de facilité, veuillez cliquer sur"
+
+#: php/admin/RoomPlanningAdminHelp.php:11
+#@ roomplanning
+msgid "to generate your forms on shoortcode editions"
+msgstr "pour générer votre shoortcode sur les formulaires d'éditions"
+
+#: php/admin/RoomPlanningAdminList.php:17
+#: php/admin/RoomPlanningAdminList.php:58
+#: php/admin/RoomPlanningAdminList.php:99
+#@ roomplanning
+msgid "Apply"
+msgstr "Appliquer"
+
+#: php/admin/RoomPlanningAdminList.php:56
+#: php/admin/RoomPlanningAdminList.php:97
+#@ roomplanning
+msgid "Delete"
+msgstr "Supprimer"
+
+#: php/admin/admincore.php:100
+#@ roomplanning
+msgid "Here is your login and password on"
+msgstr "Voici vos identifiants de connexion"
+
+#: php/admin/admincore.php:101
+#@ roomplanning
+msgid "Your login"
+msgstr "Votre idenfifiant"
+
+#: php/admin/admincore.php:102
+#@ roomplanning
+msgid "Your password"
+msgstr "Votre mot de passe"
+
+#: php/ajax/ajaxrequest.php:406
+#@ roomplanning
+msgid "Name and password not valid"
+msgstr "Identifiant et mot de passe incorrects"
+
+#: RoomPlanningShortcode.php:158
+#: php/lib/utils.php:79
+#@ roomplanning
+msgid "Week"
+msgstr "Semaine"
+
+#: RoomPlanningShortcode.php:269
+#@ roomplanning
+msgid "Booked from"
+msgstr "Réservé de"
+
+#: php/admin/RoomPlanningAdminAdministration.php:39
+#@ roomplanning
+msgid "Open on week-end"
+msgstr "Ouvert le week-end"
+
+#: php/admin/RoomPlanningAdminAdministration.php:47
+#@ roomplanning
+msgid "Number of results by page ?"
+msgstr "Nombre de résultats par page ?"
+
+#: php/admin/RoomPlanningAdminAdministration.php:67
+#@ roomplanning
+msgid "Choose booking image"
+msgstr "Choisissez l'image de fond pour les réservations"
+
+#: php/admin/RoomPlanningAdminHelp.php:52
+#@ roomplanning
+msgid "Display planning room by day, week, month or year"
+msgstr "Afficher le planning par jour, semaine, mois ou année"
+
+#: php/admin/RoomPlanningAdminList.php:14
+#: php/admin/RoomPlanningAdminList.php:55
+#: php/admin/RoomPlanningAdminList.php:96
+#@ roomplanning
+msgid "Actions"
+msgstr "Actions"
+
+#: php/admin/RoomPlanningAdminList.php:70
+#: php/admin/RoomPlanningAdminList.php:79
+#: php/admin/RoomPlanningAdminList.php:111
+#: php/admin/RoomPlanningAdminList.php:120
+#@ roomplanning
+msgid "information"
+msgstr "information"
+
+#: php/ajax/ajaxrequest.php:123
+#@ roomplanning
+msgid "Error: Date end must be superior to date beginning"
+msgstr "Erreur: La date de fin doit être supérieure à celle du début"
+
+#: php/ajax/ajaxrequest.php:440
+#@ roomplanning
+msgid "User not registered"
+msgstr "Utilisateur non enregistré"
+

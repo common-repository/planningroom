@@ -1,0 +1,89 @@
+#TB_title{
+	color:#FFF;
+	background-color:#000;
+}
+#TB_window #booking_frame a.submit{
+    background: url("../images/white-grad.png") repeat-x scroll left top #F2F2F2;
+    text-shadow: 0 1px 0 #FFFFFF;
+    border-color: #BBBBBB;
+    color: #464646;
+	background-color: #FFFFFF;
+	-moz-box-sizing: content-box;
+    border-radius: 11px 11px 11px 11px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    font-size: 11px !important;
+    line-height: 13px;
+    padding: 5px 17px;
+    text-decoration: none;
+    margin: 1px;
+    font-family: "Lucida Grande",Verdana,Arial,"Bitstream Vera Sans",sans-serif;
+}
+#booking_frame div.update{
+	margin: 5px 0 15px;
+	background-color: #FFFFE0;
+	border-color: #E6DB55;
+	border-radius: 3px 3px 3px 3px;
+	border-style: solid;
+	border-width: 1px;
+	padding: 0 0.6em;
+}
+#booking_frame{
+padding-top:20px;
+}
+#booking_frame label{
+font-weight:normal;
+}
+#booking_frame td{
+vertical-align:middle;
+padding:5px 3px;
+}
+#booking_frame fieldset{
+	float:left;
+	padding:2%;
+	width:44%;
+}
+#booking_frame #booking_forget{
+	margin-top:10px;
+	clear:both;
+}
+#booking_frame legend,#booking_frame h2{
+  color: #464646;
+  font: italic 24px/35px Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+  text-shadow: 0 1px 0 #FFFFFF;
+  font-size: 1.3em;
+  font-weight: bold;
+}
+#booking_frame input.regular-text{
+	width:11em;
+	border-color:#DFDFDF;
+	background-color:#CFCFCF;
+	-moz-box-radius: 4px;
+	border-style:solid;
+	border-width:1px;
+	-moz-box-sizing: border-box;
+	font-size:12px;
+	margin:1px;
+	padding:3px;
+	line-height:15px;
+}
+#booking_frame .form-table{margin-bottom:10px;}
+
+#booking_frame select {
+    font-size: 11px;
+    height: 2em;
+    padding: 2px;
+    background-color: #FFFFFF;
+    border-color: #DFDFDF;
+    border-radius: 4px 4px 4px 4px;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 12px;
+    margin: 1px;
+    padding: 3px;
+    line-height: 15px;
+    font-family: "Lucida Grande",Verdana,Arial,"Bitstream Vera Sans",sans-serif;
+    font-size: 13px;
+}
+
